@@ -1,5 +1,61 @@
 {
- "next_day": 4,
- "posted": [],
+ "next_day": 5,
+ "platforms": [
+  "instagram",
+  "x",
+  "youtube",
+  "tiktok"
+ ],
+ "posted": [
+  {
+   "day": 1,
+   "title": "تصريح الزائر",
+   "date": "2026-11-22",
+   "links": {
+    "instagram": "https://www.instagram.com/idamaapp/reel/DgCeBRugnWe/",
+    "x": "https://x.com/idamaapp/status/2124431081713893681",
+    "youtube": "https://youtube.com/shorts/-Hnqr2O0V6o",
+    "tiktok": "https://www.tiktok.com/@idamaapp/video/7710924774427364609"
+   },
+   "note": "نُشرت يدوياً في جلسة المطابقة 22 نوفمبر (اليوم 1 كان على يوتيوب منذ 20 نوفمبر وصُحّح عنوانه)"
+  },
+  {
+   "day": 2,
+   "title": "بلاغ العطل",
+   "date": "2026-11-22",
+   "links": {
+    "instagram": "https://www.instagram.com/idamaapp/reel/DgCeTqlgYIT/",
+    "x": "https://x.com/idamaapp/status/2124431583859912946",
+    "youtube": "https://youtube.com/shorts/8vlxCVEdjPk",
+    "tiktok": "https://www.tiktok.com/@idamaapp/video/7710925482274852103"
+   },
+   "note": "نُشرت يدوياً في جلسة المطابقة 22 نوفمبر (اليوم 1 كان على يوتيوب منذ 20 نوفمبر وصُحّح عنوانه)"
+  },
+  {
+   "day": 3,
+   "title": "صندوق الجمعية",
+   "date": "2026-11-22",
+   "links": {
+    "instagram": "https://www.instagram.com/idamaapp/reel/DgCekZWgLSK/",
+    "x": "https://x.com/idamaapp/status/2124431944519700666",
+    "youtube": "https://youtube.com/shorts/ZjzOtTdvY7o",
+    "tiktok": "https://www.tiktok.com/@idamaapp/video/7710925791365876993"
+   },
+   "note": "نُشرت يدوياً في جلسة المطابقة 22 نوفمبر (اليوم 1 كان على يوتيوب منذ 20 نوفمبر وصُحّح عنوانه)"
+  },
+  {
+   "day": 4,
+   "title": "مراجعة التحويلات",
+   "date": "2026-11-22",
+   "links": {
+    "instagram": "https://www.instagram.com/idamaapp/reel/DgCe1DzAmV0/",
+    "x": "https://x.com/idamaapp/status/2124432303237861601",
+    "youtube": "https://youtube.com/shorts/9qtxGSCnuII",
+    "tiktok": "https://www.tiktok.com/@idamaapp/video/7710926027228318982"
+   },
+   "note": "نُشرت يدوياً في جلسة المطابقة 22 نوفمبر (اليوم 1 كان على يوتيوب منذ 20 نوفمبر وصُحّح عنوانه)"
+  }
+ ],
+ "pending": [],
  "blocked": []
 }
