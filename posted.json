@@ -1,5 +1,5 @@
 {
-  "next_day": 5,
+  "next_day": 6,
   "platforms": [
     "instagram",
     "x",
@@ -54,9 +54,35 @@
         "tiktok": "https://www.tiktok.com/@idamaapp/video/7710926027228318982"
       },
       "note": "نُشرت يدوياً في جلسة المطابقة 22 نوفمبر (اليوم 1 كان على يوتيوب منذ 20 نوفمبر وصُحّح عنوانه)"
+    },
+    {
+      "day": 5,
+      "title": "أهداف العمارة",
+      "date": "2026-11-23",
+      "links": {
+        "instagram": "https://www.instagram.com/reel/DgF5TQkTFD4/"
+      },
+      "instagram_media_id": "17996268513048788",
+      "instagram_story_media_id": "18119011346584098"
     }
   ],
-  "pending": [],
+  "pending": [
+    {
+      "day": 5,
+      "platform": "x",
+      "tries": 0
+    },
+    {
+      "day": 5,
+      "platform": "youtube",
+      "tries": 0
+    },
+    {
+      "day": 5,
+      "platform": "tiktok",
+      "tries": 0
+    }
+  ],
   "blocked": [],
   "pages_base": "https://ramoo0916-create.github.io/idama-videos/v/",
   "hold": [],
