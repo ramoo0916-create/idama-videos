@@ -137,23 +137,7 @@
   },
   "academy": {
     "next_lesson": 2,
-    "pending": [
-      {
-        "n": 1,
-        "platform": "x",
-        "tries": 0
-      },
-      {
-        "n": 1,
-        "platform": "youtube",
-        "tries": 0
-      },
-      {
-        "n": 1,
-        "platform": "tiktok",
-        "tries": 0
-      }
-    ],
+    "pending": [],
     "posted": [
       {
         "n": 1,
@@ -161,7 +145,10 @@
         "title": "من صاحب القرار في العمارة؟",
         "date": "2026-11-23",
         "links": {
-          "instagram": null
+          "instagram": null,
+          "x": "https://x.com/idamaapp/status/2124878068674421240",
+          "youtube": "https://youtube.com/shorts/Eda3hMhrBm4",
+          "tiktok": "https://www.tiktok.com/@idamaapp/video/7711372339195235585"
         },
         "instagram_media_id": "17991455889080963",
         "instagram_story_media_id": "18092738984250636",
