@@ -67,7 +67,12 @@
       "instagram": "https://www.instagram.com/reel/DgCrx2tvCgZ/",
       "posted_at": "2026-11-22T11:20:50Z",
       "instagram_story_media_id": "18030200510870633",
-      "story_posted_at": "2026-11-22T11:27Z"
+      "story_posted_at": "2026-11-22T11:27Z",
+      "links": {
+        "x": "https://x.com/idamaapp/status/2124815988361490780",
+        "youtube": "https://youtube.com/shorts/NgEL_EkI80M",
+        "tiktok": "https://www.tiktok.com/@idamaapp/video/7711317590097906996"
+      }
     },
     {
       "ep": 2,
@@ -75,7 +80,12 @@
       "instagram": "https://www.instagram.com/reel/DgCr4UHhD1o/",
       "posted_at": "2026-11-22T11:21:44Z",
       "instagram_story_media_id": "18111088472248146",
-      "story_posted_at": "2026-11-22T11:27Z"
+      "story_posted_at": "2026-11-22T11:27Z",
+      "links": {
+        "x": "https://x.com/idamaapp/status/2124816290355552518",
+        "youtube": "https://youtube.com/shorts/45QIrerAX5M",
+        "tiktok": "https://www.tiktok.com/@idamaapp/video/7711318209596542209"
+      }
     },
     {
       "ep": 3,
@@ -83,7 +93,12 @@
       "instagram": "https://www.instagram.com/reel/DgCr_h4qeBx/",
       "posted_at": "2026-11-22T11:22:41Z",
       "instagram_story_media_id": "17955956250321101",
-      "story_posted_at": "2026-11-22T11:27Z"
+      "story_posted_at": "2026-11-22T11:27Z",
+      "links": {
+        "x": "https://x.com/idamaapp/status/2124816556442132641",
+        "youtube": "https://youtube.com/shorts/RDIBm8PMD6Y",
+        "tiktok": "https://www.tiktok.com/@idamaapp/video/7711318593169902900"
+      }
     }
   ],
   "rules": [
@@ -101,68 +116,7 @@
       "youtube",
       "tiktok"
     ],
-    "pending": [
-      {
-        "ep": 1,
-        "platform": "x",
-        "tries": 1
-      },
-      {
-        "ep": 1,
-        "platform": "youtube",
-        "tries": 1
-      },
-      {
-        "ep": 1,
-        "platform": "tiktok",
-        "tries": 1
-      },
-      {
-        "ep": 2,
-        "platform": "x",
-        "tries": 0
-      },
-      {
-        "ep": 2,
-        "platform": "youtube",
-        "tries": 0
-      },
-      {
-        "ep": 2,
-        "platform": "tiktok",
-        "tries": 0
-      },
-      {
-        "ep": 3,
-        "platform": "x",
-        "tries": 0
-      },
-      {
-        "ep": 3,
-        "platform": "youtube",
-        "tries": 0
-      },
-      {
-        "ep": 3,
-        "platform": "tiktok",
-        "tries": 0
-      },
-      {
-        "ep": 4,
-        "platform": "x",
-        "tries": 0
-      },
-      {
-        "ep": 4,
-        "platform": "youtube",
-        "tries": 0
-      },
-      {
-        "ep": 4,
-        "platform": "tiktok",
-        "tries": 0
-      }
-    ],
+    "pending": [],
     "posted": [
       {
         "ep": 4,
@@ -171,13 +125,14 @@
         "date": "2026-11-23",
         "links": {
           "instagram": "https://www.instagram.com/reel/DgFK39ZC-aD/",
-          "x": null,
-          "youtube": null,
-          "tiktok": null
+          "x": "https://x.com/idamaapp/status/2124816813179769265",
+          "youtube": "https://youtube.com/shorts/MWyUUpgbHRg",
+          "tiktok": "https://www.tiktok.com/@idamaapp/video/7711318815400824070"
         },
         "instagram_media_id": "18151486048568218",
         "instagram_story_media_id": "17994240315089764"
       }
-    ]
+    ],
+    "backfill_2026_11_23": {}
   }
 }
