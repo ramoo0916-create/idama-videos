@@ -92,7 +92,7 @@
   ],
   "story_series": {
     "name": "مشاكل جمعيات الملاك",
-    "next_ep": 4,
+    "next_ep": 5,
     "source": "ramoo0916-create/idama فرع video-kit: stories.json وvideos/story-NN-<key>.mp4",
     "platforms": [
       "instagram",
@@ -105,17 +105,17 @@
       {
         "ep": 1,
         "platform": "x",
-        "tries": 0
+        "tries": 1
       },
       {
         "ep": 1,
         "platform": "youtube",
-        "tries": 0
+        "tries": 1
       },
       {
         "ep": 1,
         "platform": "tiktok",
-        "tries": 0
+        "tries": 1
       },
       {
         "ep": 2,
@@ -146,6 +146,37 @@
         "ep": 3,
         "platform": "tiktok",
         "tries": 0
+      },
+      {
+        "ep": 4,
+        "platform": "x",
+        "tries": 0
+      },
+      {
+        "ep": 4,
+        "platform": "youtube",
+        "tries": 0
+      },
+      {
+        "ep": 4,
+        "platform": "tiktok",
+        "tries": 0
+      }
+    ],
+    "posted": [
+      {
+        "ep": 4,
+        "key": "visitor",
+        "title": "ضيفك عند البوابة… والحارس ما يعرفه",
+        "date": "2026-11-23",
+        "links": {
+          "instagram": "https://www.instagram.com/reel/DgFK39ZC-aD/",
+          "x": null,
+          "youtube": null,
+          "tiktok": null
+        },
+        "instagram_media_id": "18151486048568218",
+        "instagram_story_media_id": "17994240315089764"
       }
     ]
   }
