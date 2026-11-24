@@ -133,7 +133,7 @@
   ],
   "story_series": {
     "name": "مشاكل جمعيات الملاك",
-    "next_ep": 5,
+    "next_ep": 6,
     "source": "ramoo0916-create/idama فرع video-kit: stories.json وvideos/story-NN-<key>.mp4",
     "platforms": [
       "instagram",
@@ -142,7 +142,33 @@
       "youtube",
       "tiktok"
     ],
-    "pending": [],
+    "pending": [
+      {
+        "ep": 5,
+        "platform": "instagram",
+        "tries": 1
+      },
+      {
+        "ep": 5,
+        "platform": "instagram_story",
+        "tries": 1
+      },
+      {
+        "ep": 5,
+        "platform": "x",
+        "tries": 0
+      },
+      {
+        "ep": 5,
+        "platform": "youtube",
+        "tries": 0
+      },
+      {
+        "ep": 5,
+        "platform": "tiktok",
+        "tries": 0
+      }
+    ],
     "posted": [
       {
         "ep": 4,
@@ -157,6 +183,16 @@
         },
         "instagram_media_id": "18151486048568218",
         "instagram_story_media_id": "17994240315089764"
+      },
+      {
+        "ep": 5,
+        "key": "pump",
+        "title": "المضخة خربت… وش نوعها ووين مكانها؟",
+        "date": "2026-11-24",
+        "links": {
+          "instagram": null
+        },
+        "instagram_story_media_id": null
       }
     ],
     "backfill_2026_11_23": {}
