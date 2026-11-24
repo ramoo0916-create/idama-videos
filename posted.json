@@ -1,288 +1,267 @@
 {
-  "next_day": 7,
+ "next_day": 7,
+ "platforms": [
+  "instagram",
+  "x",
+  "youtube",
+  "tiktok"
+ ],
+ "posted": [
+  {
+   "day": 1,
+   "title": "تصريح الزائر",
+   "date": "2026-11-22",
+   "links": {
+    "instagram": "https://www.instagram.com/idamaapp/reel/DgCeBRugnWe/",
+    "x": "https://x.com/idamaapp/status/2124431081713893681",
+    "youtube": "https://youtube.com/shorts/-Hnqr2O0V6o",
+    "tiktok": "https://www.tiktok.com/@idamaapp/video/7710924774427364609"
+   },
+   "note": "نُشرت يدوياً في جلسة المطابقة 22 نوفمبر (اليوم 1 كان على يوتيوب منذ 20 نوفمبر وصُحّح عنوانه)"
+  },
+  {
+   "day": 2,
+   "title": "بلاغ العطل",
+   "date": "2026-11-22",
+   "links": {
+    "instagram": "https://www.instagram.com/idamaapp/reel/DgCeTqlgYIT/",
+    "x": "https://x.com/idamaapp/status/2124431583859912946",
+    "youtube": "https://youtube.com/shorts/8vlxCVEdjPk",
+    "tiktok": "https://www.tiktok.com/@idamaapp/video/7710925482274852103"
+   },
+   "note": "نُشرت يدوياً في جلسة المطابقة 22 نوفمبر (اليوم 1 كان على يوتيوب منذ 20 نوفمبر وصُحّح عنوانه)"
+  },
+  {
+   "day": 3,
+   "title": "صندوق الجمعية",
+   "date": "2026-11-22",
+   "links": {
+    "instagram": "https://www.instagram.com/idamaapp/reel/DgCekZWgLSK/",
+    "x": "https://x.com/idamaapp/status/2124431944519700666",
+    "youtube": "https://youtube.com/shorts/ZjzOtTdvY7o",
+    "tiktok": "https://www.tiktok.com/@idamaapp/video/7710925791365876993"
+   },
+   "note": "نُشرت يدوياً في جلسة المطابقة 22 نوفمبر (اليوم 1 كان على يوتيوب منذ 20 نوفمبر وصُحّح عنوانه)"
+  },
+  {
+   "day": 4,
+   "title": "مراجعة التحويلات",
+   "date": "2026-11-22",
+   "links": {
+    "instagram": "https://www.instagram.com/idamaapp/reel/DgCe1DzAmV0/",
+    "x": "https://x.com/idamaapp/status/2124432303237861601",
+    "youtube": "https://youtube.com/shorts/9qtxGSCnuII",
+    "tiktok": "https://www.tiktok.com/@idamaapp/video/7710926027228318982"
+   },
+   "note": "نُشرت يدوياً في جلسة المطابقة 22 نوفمبر (اليوم 1 كان على يوتيوب منذ 20 نوفمبر وصُحّح عنوانه)"
+  },
+  {
+   "day": 5,
+   "title": "أهداف العمارة",
+   "date": "2026-11-23",
+   "links": {
+    "instagram": "https://www.instagram.com/reel/DgF5TQkTFD4/"
+   },
+   "instagram_media_id": "17996268513048788",
+   "instagram_story_media_id": "18119011346584098"
+  },
+  {
+   "day": 6,
+   "title": "مصروفات الجمعية",
+   "date": "2026-11-24",
+   "links": {},
+   "note": "إنستقرام لم يُنشر: حساب idamaapp يحتاج إعادة تسجيل دخول في Windsor (sign_in_again). أُضيف إلى pending لإعادة المحاولة."
+  }
+ ],
+ "pending": [
+  {
+   "day": 5,
+   "platform": "tiktok",
+   "tries": 0
+  },
+  {
+   "day": 6,
+   "platform": "instagram",
+   "tries": 1
+  },
+  {
+   "day": 6,
+   "platform": "instagram_story",
+   "tries": 1
+  },
+  {
+   "day": 6,
+   "platform": "tiktok",
+   "tries": 0
+  }
+ ],
+ "blocked": [],
+ "pages_base": "https://ramoo0916-create.github.io/idama-videos/v/",
+ "hold": [],
+ "story_reels": [
+  {
+   "ep": 1,
+   "key": "unpaid",
+   "instagram": "https://www.instagram.com/reel/DgCrx2tvCgZ/",
+   "posted_at": "2026-11-22T11:20:50Z",
+   "instagram_story_media_id": "18030200510870633",
+   "story_posted_at": "2026-11-22T11:27Z",
+   "links": {
+    "x": "https://x.com/idamaapp/status/2124815988361490780",
+    "youtube": "https://youtube.com/shorts/NgEL_EkI80M",
+    "tiktok": "https://www.tiktok.com/@idamaapp/video/7711317590097906996"
+   }
+  },
+  {
+   "ep": 2,
+   "key": "elevator",
+   "instagram": "https://www.instagram.com/reel/DgCr4UHhD1o/",
+   "posted_at": "2026-11-22T11:21:44Z",
+   "instagram_story_media_id": "18111088472248146",
+   "story_posted_at": "2026-11-22T11:27Z",
+   "links": {
+    "x": "https://x.com/idamaapp/status/2124816290355552518",
+    "youtube": "https://youtube.com/shorts/45QIrerAX5M",
+    "tiktok": "https://www.tiktok.com/@idamaapp/video/7711318209596542209"
+   }
+  },
+  {
+   "ep": 3,
+   "key": "fund",
+   "instagram": "https://www.instagram.com/reel/DgCr_h4qeBx/",
+   "posted_at": "2026-11-22T11:22:41Z",
+   "instagram_story_media_id": "17955956250321101",
+   "story_posted_at": "2026-11-22T11:27Z",
+   "links": {
+    "x": "https://x.com/idamaapp/status/2124816556442132641",
+    "youtube": "https://youtube.com/shorts/RDIBm8PMD6Y",
+    "tiktok": "https://www.tiktok.com/@idamaapp/video/7711318593169902900"
+   }
+  }
+ ],
+ "rules": [
+  "قرار رامي الدائم (22 نوفمبر 2026، أكّده بـ«اعتمد… دائماً»): أي منشور جديد في إنستقرام (ريلز أو فيديو أو صورة) يُنشر أيضاً ستوري في إنستقرام بنفس الملف (Windsor: create_story بـvideo_url أو image_url). لا ستوري في إكس ويوتيوب، وستوري تيك توك من الجوال فقط، وفيسبوك يُضاف إذا رُبطت صفحة.",
+  "قرار رامي (22 نوفمبر 2026، 6:57 م): «لا تنتظر أي اعتمادات مني… صمم الفيديوهات واحفظها وابدأ النشر يومياً». لا إيقاف بانتظار اعتماده؛ رُفع إيقاف اليوم 6."
+ ],
+ "story_series": {
+  "name": "مشاكل جمعيات الملاك",
+  "next_ep": 6,
+  "source": "ramoo0916-create/idama فرع video-kit: stories.json وvideos/story-NN-<key>.mp4",
   "platforms": [
-    "instagram",
-    "x",
-    "youtube",
-    "tiktok"
-  ],
-  "posted": [
-    {
-      "day": 1,
-      "title": "تصريح الزائر",
-      "date": "2026-11-22",
-      "links": {
-        "instagram": "https://www.instagram.com/idamaapp/reel/DgCeBRugnWe/",
-        "x": "https://x.com/idamaapp/status/2124431081713893681",
-        "youtube": "https://youtube.com/shorts/-Hnqr2O0V6o",
-        "tiktok": "https://www.tiktok.com/@idamaapp/video/7710924774427364609"
-      },
-      "note": "نُشرت يدوياً في جلسة المطابقة 22 نوفمبر (اليوم 1 كان على يوتيوب منذ 20 نوفمبر وصُحّح عنوانه)"
-    },
-    {
-      "day": 2,
-      "title": "بلاغ العطل",
-      "date": "2026-11-22",
-      "links": {
-        "instagram": "https://www.instagram.com/idamaapp/reel/DgCeTqlgYIT/",
-        "x": "https://x.com/idamaapp/status/2124431583859912946",
-        "youtube": "https://youtube.com/shorts/8vlxCVEdjPk",
-        "tiktok": "https://www.tiktok.com/@idamaapp/video/7710925482274852103"
-      },
-      "note": "نُشرت يدوياً في جلسة المطابقة 22 نوفمبر (اليوم 1 كان على يوتيوب منذ 20 نوفمبر وصُحّح عنوانه)"
-    },
-    {
-      "day": 3,
-      "title": "صندوق الجمعية",
-      "date": "2026-11-22",
-      "links": {
-        "instagram": "https://www.instagram.com/idamaapp/reel/DgCekZWgLSK/",
-        "x": "https://x.com/idamaapp/status/2124431944519700666",
-        "youtube": "https://youtube.com/shorts/ZjzOtTdvY7o",
-        "tiktok": "https://www.tiktok.com/@idamaapp/video/7710925791365876993"
-      },
-      "note": "نُشرت يدوياً في جلسة المطابقة 22 نوفمبر (اليوم 1 كان على يوتيوب منذ 20 نوفمبر وصُحّح عنوانه)"
-    },
-    {
-      "day": 4,
-      "title": "مراجعة التحويلات",
-      "date": "2026-11-22",
-      "links": {
-        "instagram": "https://www.instagram.com/idamaapp/reel/DgCe1DzAmV0/",
-        "x": "https://x.com/idamaapp/status/2124432303237861601",
-        "youtube": "https://youtube.com/shorts/9qtxGSCnuII",
-        "tiktok": "https://www.tiktok.com/@idamaapp/video/7710926027228318982"
-      },
-      "note": "نُشرت يدوياً في جلسة المطابقة 22 نوفمبر (اليوم 1 كان على يوتيوب منذ 20 نوفمبر وصُحّح عنوانه)"
-    },
-    {
-      "day": 5,
-      "title": "أهداف العمارة",
-      "date": "2026-11-23",
-      "links": {
-        "instagram": "https://www.instagram.com/reel/DgF5TQkTFD4/"
-      },
-      "instagram_media_id": "17996268513048788",
-      "instagram_story_media_id": "18119011346584098"
-    },
-    {
-      "day": 6,
-      "title": "مصروفات الجمعية",
-      "date": "2026-11-24",
-      "links": {},
-      "note": "إنستقرام لم يُنشر: حساب idamaapp يحتاج إعادة تسجيل دخول في Windsor (sign_in_again). أُضيف إلى pending لإعادة المحاولة."
-    }
+   "instagram",
+   "instagram_story",
+   "x",
+   "youtube",
+   "tiktok"
   ],
   "pending": [
-    {
-      "day": 5,
-      "platform": "x",
-      "tries": 0
-    },
-    {
-      "day": 5,
-      "platform": "youtube",
-      "tries": 0
-    },
-    {
-      "day": 5,
-      "platform": "tiktok",
-      "tries": 0
-    },
-    {
-      "day": 6,
-      "platform": "instagram",
-      "tries": 1
-    },
-    {
-      "day": 6,
-      "platform": "instagram_story",
-      "tries": 1
-    },
-    {
-      "day": 6,
-      "platform": "x",
-      "tries": 0
-    },
-    {
-      "day": 6,
-      "platform": "youtube",
-      "tries": 0
-    },
-    {
-      "day": 6,
-      "platform": "tiktok",
-      "tries": 0
-    }
+   {
+    "ep": 5,
+    "platform": "instagram",
+    "tries": 1
+   },
+   {
+    "ep": 5,
+    "platform": "instagram_story",
+    "tries": 1
+   },
+   {
+    "ep": 5,
+    "platform": "tiktok",
+    "tries": 0
+   }
   ],
-  "blocked": [],
-  "pages_base": "https://ramoo0916-create.github.io/idama-videos/v/",
-  "hold": [],
-  "story_reels": [
-    {
-      "ep": 1,
-      "key": "unpaid",
-      "instagram": "https://www.instagram.com/reel/DgCrx2tvCgZ/",
-      "posted_at": "2026-11-22T11:20:50Z",
-      "instagram_story_media_id": "18030200510870633",
-      "story_posted_at": "2026-11-22T11:27Z",
-      "links": {
-        "x": "https://x.com/idamaapp/status/2124815988361490780",
-        "youtube": "https://youtube.com/shorts/NgEL_EkI80M",
-        "tiktok": "https://www.tiktok.com/@idamaapp/video/7711317590097906996"
-      }
+  "posted": [
+   {
+    "ep": 4,
+    "key": "visitor",
+    "title": "ضيفك عند البوابة… والحارس ما يعرفه",
+    "date": "2026-11-23",
+    "links": {
+     "instagram": "https://www.instagram.com/reel/DgFK39ZC-aD/",
+     "x": "https://x.com/idamaapp/status/2124816813179769265",
+     "youtube": "https://youtube.com/shorts/MWyUUpgbHRg",
+     "tiktok": "https://www.tiktok.com/@idamaapp/video/7711318815400824070"
     },
-    {
-      "ep": 2,
-      "key": "elevator",
-      "instagram": "https://www.instagram.com/reel/DgCr4UHhD1o/",
-      "posted_at": "2026-11-22T11:21:44Z",
-      "instagram_story_media_id": "18111088472248146",
-      "story_posted_at": "2026-11-22T11:27Z",
-      "links": {
-        "x": "https://x.com/idamaapp/status/2124816290355552518",
-        "youtube": "https://youtube.com/shorts/45QIrerAX5M",
-        "tiktok": "https://www.tiktok.com/@idamaapp/video/7711318209596542209"
-      }
+    "instagram_media_id": "18151486048568218",
+    "instagram_story_media_id": "17994240315089764"
+   },
+   {
+    "ep": 5,
+    "key": "pump",
+    "title": "المضخة خربت… وش نوعها ووين مكانها؟",
+    "date": "2026-11-24",
+    "links": {
+     "instagram": null
     },
-    {
-      "ep": 3,
-      "key": "fund",
-      "instagram": "https://www.instagram.com/reel/DgCr_h4qeBx/",
-      "posted_at": "2026-11-22T11:22:41Z",
-      "instagram_story_media_id": "17955956250321101",
-      "story_posted_at": "2026-11-22T11:27Z",
-      "links": {
-        "x": "https://x.com/idamaapp/status/2124816556442132641",
-        "youtube": "https://youtube.com/shorts/RDIBm8PMD6Y",
-        "tiktok": "https://www.tiktok.com/@idamaapp/video/7711318593169902900"
-      }
-    }
+    "instagram_story_media_id": null
+   }
   ],
-  "rules": [
-    "قرار رامي الدائم (22 نوفمبر 2026، أكّده بـ«اعتمد… دائماً»): أي منشور جديد في إنستقرام (ريلز أو فيديو أو صورة) يُنشر أيضاً ستوري في إنستقرام بنفس الملف (Windsor: create_story بـvideo_url أو image_url). لا ستوري في إكس ويوتيوب، وستوري تيك توك من الجوال فقط، وفيسبوك يُضاف إذا رُبطت صفحة.",
-    "قرار رامي (22 نوفمبر 2026، 6:57 م): «لا تنتظر أي اعتمادات مني… صمم الفيديوهات واحفظها وابدأ النشر يومياً». لا إيقاف بانتظار اعتماده؛ رُفع إيقاف اليوم 6."
+  "backfill_2026_11_23": {}
+ },
+ "academy": {
+  "next_lesson": 3,
+  "pending": [
+   {
+    "n": 2,
+    "platform": "instagram",
+    "tries": 0
+   },
+   {
+    "n": 2,
+    "platform": "instagram_story",
+    "tries": 0
+   },
+   {
+    "n": 2,
+    "platform": "tiktok",
+    "tries": 0
+   }
   ],
-  "story_series": {
-    "name": "مشاكل جمعيات الملاك",
-    "next_ep": 6,
-    "source": "ramoo0916-create/idama فرع video-kit: stories.json وvideos/story-NN-<key>.mp4",
-    "platforms": [
-      "instagram",
-      "instagram_story",
-      "x",
-      "youtube",
-      "tiktok"
-    ],
-    "pending": [
-      {
-        "ep": 5,
-        "platform": "instagram",
-        "tries": 1
-      },
-      {
-        "ep": 5,
-        "platform": "instagram_story",
-        "tries": 1
-      },
-      {
-        "ep": 5,
-        "platform": "x",
-        "tries": 0
-      },
-      {
-        "ep": 5,
-        "platform": "youtube",
-        "tries": 0
-      },
-      {
-        "ep": 5,
-        "platform": "tiktok",
-        "tries": 0
-      }
-    ],
-    "posted": [
-      {
-        "ep": 4,
-        "key": "visitor",
-        "title": "ضيفك عند البوابة… والحارس ما يعرفه",
-        "date": "2026-11-23",
-        "links": {
-          "instagram": "https://www.instagram.com/reel/DgFK39ZC-aD/",
-          "x": "https://x.com/idamaapp/status/2124816813179769265",
-          "youtube": "https://youtube.com/shorts/MWyUUpgbHRg",
-          "tiktok": "https://www.tiktok.com/@idamaapp/video/7711318815400824070"
-        },
-        "instagram_media_id": "18151486048568218",
-        "instagram_story_media_id": "17994240315089764"
-      },
-      {
-        "ep": 5,
-        "key": "pump",
-        "title": "المضخة خربت… وش نوعها ووين مكانها؟",
-        "date": "2026-11-24",
-        "links": {
-          "instagram": null
-        },
-        "instagram_story_media_id": null
-      }
-    ],
-    "backfill_2026_11_23": {}
+  "posted": [
+   {
+    "n": 1,
+    "key": "assembly-power",
+    "title": "من صاحب القرار في العمارة؟",
+    "date": "2026-11-23",
+    "links": {
+     "instagram": "https://www.instagram.com/reel/DgFkePcs4OU/",
+     "x": "https://x.com/idamaapp/status/2124878068674421240",
+     "youtube": "https://youtube.com/shorts/Eda3hMhrBm4",
+     "tiktok": "https://www.tiktok.com/@idamaapp/video/7711372339195235585"
+    },
+    "instagram_media_id": "17991455889080963",
+    "instagram_story_media_id": "18092738984250636"
+   },
+   {
+    "n": 2,
+    "key": "president",
+    "title": "رئيس الجمعية: مدته ومهامه",
+    "date": "2026-11-24",
+    "links": {
+     "instagram": null
+    },
+    "instagram_story_media_id": null
+   }
+  ]
+ },
+ "manual_2026_11_24": {
+  "note": "نُشرت يدوياً من كروم الماك 24 نوفمبر 20:40 لأن ربط إنستغرام في Windsor منقطع. لا تُعِد نشرها على X/يوتيوب. اليوم 5 منشور على X مرتين (23 و24 نوفمبر).",
+  "story_5": {
+   "x": "https://x.com/idamaapp/status/2125282866422518008",
+   "youtube": "https://youtube.com/shorts/UMjeXfYb-XM"
   },
-  "academy": {
-    "next_lesson": 3,
-    "pending": [
-      {
-        "n": 2,
-        "platform": "instagram",
-        "tries": 0
-      },
-      {
-        "n": 2,
-        "platform": "instagram_story",
-        "tries": 0
-      },
-      {
-        "n": 2,
-        "platform": "x",
-        "tries": 0
-      },
-      {
-        "n": 2,
-        "platform": "youtube",
-        "tries": 0
-      },
-      {
-        "n": 2,
-        "platform": "tiktok",
-        "tries": 0
-      }
-    ],
-    "posted": [
-      {
-        "n": 1,
-        "key": "assembly-power",
-        "title": "من صاحب القرار في العمارة؟",
-        "date": "2026-11-23",
-        "links": {
-          "instagram": "https://www.instagram.com/reel/DgFkePcs4OU/",
-          "x": "https://x.com/idamaapp/status/2124878068674421240",
-          "youtube": "https://youtube.com/shorts/Eda3hMhrBm4",
-          "tiktok": "https://www.tiktok.com/@idamaapp/video/7711372339195235585"
-        },
-        "instagram_media_id": "17991455889080963",
-        "instagram_story_media_id": "18092738984250636"
-      },
-      {
-        "n": 2,
-        "key": "president",
-        "title": "رئيس الجمعية: مدته ومهامه",
-        "date": "2026-11-24",
-        "links": {
-          "instagram": null
-        },
-        "instagram_story_media_id": null
-      }
-    ]
+  "academy_2": {
+   "x": "https://x.com/idamaapp/status/2125283097335717990",
+   "youtube": "https://youtube.com/shorts/j-9_ivzVVnI"
+  },
+  "day_6": {
+   "x": "https://x.com/idamaapp/status/2125283278349607137",
+   "youtube": "https://youtube.com/shorts/N_FpcSy8oVg"
+  },
+  "day_5": {
+   "x": "https://x.com/idamaapp/status/2124930945140801673",
+   "youtube": "(موجود على القناة)"
   }
+ }
 }
