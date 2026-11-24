@@ -1,5 +1,5 @@
 {
-  "next_day": 6,
+  "next_day": 7,
   "platforms": [
     "instagram",
     "x",
@@ -64,6 +64,13 @@
       },
       "instagram_media_id": "17996268513048788",
       "instagram_story_media_id": "18119011346584098"
+    },
+    {
+      "day": 6,
+      "title": "مصروفات الجمعية",
+      "date": "2026-11-24",
+      "links": {},
+      "note": "إنستقرام لم يُنشر: حساب idamaapp يحتاج إعادة تسجيل دخول في Windsor (sign_in_again). أُضيف إلى pending لإعادة المحاولة."
     }
   ],
   "pending": [
@@ -79,6 +86,31 @@
     },
     {
       "day": 5,
+      "platform": "tiktok",
+      "tries": 0
+    },
+    {
+      "day": 6,
+      "platform": "instagram",
+      "tries": 1
+    },
+    {
+      "day": 6,
+      "platform": "instagram_story",
+      "tries": 1
+    },
+    {
+      "day": 6,
+      "platform": "x",
+      "tries": 0
+    },
+    {
+      "day": 6,
+      "platform": "youtube",
+      "tries": 0
+    },
+    {
+      "day": 6,
       "platform": "tiktok",
       "tries": 0
     }
