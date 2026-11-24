@@ -198,8 +198,34 @@
     "backfill_2026_11_23": {}
   },
   "academy": {
-    "next_lesson": 2,
-    "pending": [],
+    "next_lesson": 3,
+    "pending": [
+      {
+        "n": 2,
+        "platform": "instagram",
+        "tries": 0
+      },
+      {
+        "n": 2,
+        "platform": "instagram_story",
+        "tries": 0
+      },
+      {
+        "n": 2,
+        "platform": "x",
+        "tries": 0
+      },
+      {
+        "n": 2,
+        "platform": "youtube",
+        "tries": 0
+      },
+      {
+        "n": 2,
+        "platform": "tiktok",
+        "tries": 0
+      }
+    ],
     "posted": [
       {
         "n": 1,
@@ -214,6 +240,16 @@
         },
         "instagram_media_id": "17991455889080963",
         "instagram_story_media_id": "18092738984250636"
+      },
+      {
+        "n": 2,
+        "key": "president",
+        "title": "رئيس الجمعية: مدته ومهامه",
+        "date": "2026-11-24",
+        "links": {
+          "instagram": null
+        },
+        "instagram_story_media_id": null
       }
     ]
   }
