@@ -75,11 +75,6 @@
  ],
  "pending": [
   {
-   "day": 5,
-   "platform": "tiktok",
-   "tries": 0
-  },
-  {
    "day": 6,
    "platform": "instagram",
    "tries": 1
@@ -88,11 +83,6 @@
    "day": 6,
    "platform": "instagram_story",
    "tries": 1
-  },
-  {
-   "day": 6,
-   "platform": "tiktok",
-   "tries": 0
   }
  ],
  "blocked": [],
@@ -164,11 +154,6 @@
     "ep": 5,
     "platform": "instagram_story",
     "tries": 1
-   },
-   {
-    "ep": 5,
-    "platform": "tiktok",
-    "tries": 0
    }
   ],
   "posted": [
@@ -211,11 +196,6 @@
     "n": 2,
     "platform": "instagram_story",
     "tries": 0
-   },
-   {
-    "n": 2,
-    "platform": "tiktok",
-    "tries": 0
    }
   ],
   "posted": [
@@ -246,18 +226,21 @@
   ]
  },
  "manual_2026_11_24": {
-  "note": "نُشرت يدوياً من كروم الماك 24 نوفمبر 20:40 لأن ربط إنستغرام في Windsor منقطع. لا تُعِد نشرها على X/يوتيوب. اليوم 5 منشور على X مرتين (23 و24 نوفمبر).",
+  "note": "نُشرت يدوياً من كروم الماك 24 نوفمبر 20:40 لأن ربط إنستغرام في Windsor منقطع. لا تُعِد نشرها على X/يوتيوب. اليوم 5 منشور على X مرتين (23 و24 نوفمبر). وتيك توك 21:05 (ح5 والدرس 2 واليوم 6؛ اليوم 5 كان منشوراً على تيك توك 23 نوفمبر).",
   "story_5": {
    "x": "https://x.com/idamaapp/status/2125282866422518008",
-   "youtube": "https://youtube.com/shorts/UMjeXfYb-XM"
+   "youtube": "https://youtube.com/shorts/UMjeXfYb-XM",
+   "tiktok": "منشور — قيد المراجعة 24 نوفمبر"
   },
   "academy_2": {
    "x": "https://x.com/idamaapp/status/2125283097335717990",
-   "youtube": "https://youtube.com/shorts/j-9_ivzVVnI"
+   "youtube": "https://youtube.com/shorts/j-9_ivzVVnI",
+   "tiktok": "منشور — قيد المراجعة 24 نوفمبر"
   },
   "day_6": {
    "x": "https://x.com/idamaapp/status/2125283278349607137",
-   "youtube": "https://youtube.com/shorts/N_FpcSy8oVg"
+   "youtube": "https://youtube.com/shorts/N_FpcSy8oVg",
+   "tiktok": "منشور — قيد المراجعة 24 نوفمبر"
   },
   "day_5": {
    "x": "https://x.com/idamaapp/status/2124930945140801673",
