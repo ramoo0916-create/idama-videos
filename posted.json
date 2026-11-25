@@ -1,5 +1,5 @@
 {
-  "next_day": 7,
+  "next_day": 8,
   "platforms": [
     "instagram",
     "x",
@@ -71,18 +71,51 @@
       "date": "2026-11-24",
       "links": {},
       "note": "إنستقرام لم يُنشر: حساب idamaapp يحتاج إعادة تسجيل دخول في Windsor (sign_in_again). أُضيف إلى pending لإعادة المحاولة."
+    },
+    {
+      "day": 7,
+      "title": "ملصق الباركود للمعدات",
+      "date": "2026-11-25",
+      "links": {},
+      "instagram_story_media_id": null,
+      "note": "إنستقرام لم يُنشر: حساب idamaapp غير مربوط في Windsor (sign_in_again). أُضيف إلى pending لإعادة المحاولة."
     }
   ],
   "pending": [
     {
       "day": 6,
       "platform": "instagram",
-      "tries": 1
+      "tries": 2
     },
     {
       "day": 6,
       "platform": "instagram_story",
+      "tries": 2
+    },
+    {
+      "day": 7,
+      "platform": "instagram",
       "tries": 1
+    },
+    {
+      "day": 7,
+      "platform": "instagram_story",
+      "tries": 1
+    },
+    {
+      "day": 7,
+      "platform": "x",
+      "tries": 0
+    },
+    {
+      "day": 7,
+      "platform": "youtube",
+      "tries": 0
+    },
+    {
+      "day": 7,
+      "platform": "tiktok",
+      "tries": 0
     }
   ],
   "blocked": [],
