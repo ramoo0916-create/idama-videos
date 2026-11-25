@@ -220,16 +220,41 @@
     "backfill_2026_11_23": {}
   },
   "academy": {
-    "next_lesson": 3,
+    "next_lesson": 4,
     "pending": [
       {
         "n": 2,
         "platform": "instagram",
-        "tries": 0
+        "tries": 1
       },
       {
         "n": 2,
         "platform": "instagram_story",
+        "tries": 1
+      },
+      {
+        "n": 3,
+        "platform": "instagram",
+        "tries": 1
+      },
+      {
+        "n": 3,
+        "platform": "instagram_story",
+        "tries": 1
+      },
+      {
+        "n": 3,
+        "platform": "x",
+        "tries": 0
+      },
+      {
+        "n": 3,
+        "platform": "youtube",
+        "tries": 0
+      },
+      {
+        "n": 3,
+        "platform": "tiktok",
         "tries": 0
       }
     ],
@@ -253,6 +278,16 @@
         "key": "president",
         "title": "رئيس الجمعية: مدته ومهامه",
         "date": "2026-11-24",
+        "links": {
+          "instagram": null
+        },
+        "instagram_story_media_id": null
+      },
+      {
+        "n": 3,
+        "key": "meetings",
+        "title": "كم مرة تجتمع الجمعية العامة؟",
+        "date": "2026-11-25",
         "links": {
           "instagram": null
         },
