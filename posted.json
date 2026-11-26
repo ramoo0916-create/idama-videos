@@ -168,7 +168,7 @@
   ],
   "story_series": {
     "name": "مشاكل جمعيات الملاك",
-    "next_ep": 7,
+    "next_ep": 8,
     "source": "ramoo0916-create/idama فرع video-kit: stories.json وvideos/story-NN-<key>.mp4",
     "platforms": [
       "instagram",
@@ -179,24 +179,14 @@
     ],
     "pending": [
       {
-        "ep": 5,
+        "ep": 6,
         "platform": "instagram",
         "tries": 2
       },
       {
-        "ep": 5,
+        "ep": 6,
         "platform": "instagram_story",
         "tries": 2
-      },
-      {
-        "ep": 6,
-        "platform": "instagram",
-        "tries": 1
-      },
-      {
-        "ep": 6,
-        "platform": "instagram_story",
-        "tries": 1
       },
       {
         "ep": 6,
@@ -210,6 +200,31 @@
       },
       {
         "ep": 6,
+        "platform": "tiktok",
+        "tries": 0
+      },
+      {
+        "ep": 7,
+        "platform": "instagram",
+        "tries": 1
+      },
+      {
+        "ep": 7,
+        "platform": "instagram_story",
+        "tries": 1
+      },
+      {
+        "ep": 7,
+        "platform": "x",
+        "tries": 0
+      },
+      {
+        "ep": 7,
+        "platform": "youtube",
+        "tries": 0
+      },
+      {
+        "ep": 7,
         "platform": "tiktok",
         "tries": 0
       }
@@ -244,6 +259,16 @@
         "key": "expenses",
         "title": "صرفوا على المصعد… بكم؟",
         "date": "2026-11-25",
+        "links": {
+          "instagram": null
+        },
+        "instagram_story_media_id": null
+      },
+      {
+        "ep": 7,
+        "key": "transfer",
+        "title": "حوّلت الرسوم… وجاني تذكير!",
+        "date": "2026-11-26",
         "links": {
           "instagram": null
         },
