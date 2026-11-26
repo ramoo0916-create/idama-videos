@@ -1,5 +1,5 @@
 {
- "next_day": 8,
+ "next_day": 9,
  "platforms": [
   "x",
   "youtube",
@@ -78,6 +78,12 @@
    "links": {},
    "instagram_story_media_id": null,
    "note": "إنستقرام لم يُنشر: حساب idamaapp غير مربوط في Windsor (sign_in_again). أُضيف إلى pending لإعادة المحاولة."
+  },
+  {
+   "day": 8,
+   "title": "رئيسية المالك",
+   "date": "2026-11-26",
+   "links": {}
   }
  ],
  "pending": [
@@ -93,6 +99,21 @@
   },
   {
    "day": 7,
+   "platform": "tiktok",
+   "tries": 0
+  },
+  {
+   "day": 8,
+   "platform": "x",
+   "tries": 0
+  },
+  {
+   "day": 8,
+   "platform": "youtube",
+   "tries": 0
+  },
+  {
+   "day": 8,
    "platform": "tiktok",
    "tries": 0
   }
