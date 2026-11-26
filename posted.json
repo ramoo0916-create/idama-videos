@@ -278,7 +278,7 @@
     "backfill_2026_11_23": {}
   },
   "academy": {
-    "next_lesson": 4,
+    "next_lesson": 5,
     "pending": [
       {
         "n": 2,
@@ -314,6 +314,31 @@
         "n": 3,
         "platform": "tiktok",
         "tries": 0
+      },
+      {
+        "n": 4,
+        "platform": "instagram",
+        "tries": 1
+      },
+      {
+        "n": 4,
+        "platform": "instagram_story",
+        "tries": 1
+      },
+      {
+        "n": 4,
+        "platform": "x",
+        "tries": 0
+      },
+      {
+        "n": 4,
+        "platform": "youtube",
+        "tries": 0
+      },
+      {
+        "n": 4,
+        "platform": "tiktok",
+        "tries": 0
       }
     ],
     "posted": [
@@ -346,6 +371,16 @@
         "key": "meetings",
         "title": "كم مرة تجتمع الجمعية العامة؟",
         "date": "2026-11-25",
+        "links": {
+          "instagram": null
+        },
+        "instagram_story_media_id": null
+      },
+      {
+        "n": 4,
+        "key": "quorum",
+        "title": "النصاب: متى يصح الاجتماع؟",
+        "date": "2026-11-26",
         "links": {
           "instagram": null
         },
