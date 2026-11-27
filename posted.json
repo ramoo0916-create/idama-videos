@@ -363,5 +363,54 @@
    "x": "https://x.com/idamaapp/status/2124930945140801673",
    "youtube": "(موجود على القناة)"
   }
+ },
+ "guide": {
+  "name": "دليل جمعيات الملاك",
+  "note": "فيديوهات تشرح مقالات المدونة (36 ث). نُشرت يدوياً من كروم الماك 27 نوفمبر 2026 بطلب رامي «انشر الفيديوهات الثلاثة فوراً». لا تُعد نشرها.",
+  "platforms": [
+   "x",
+   "youtube",
+   "tiktok"
+  ],
+  "pending": [],
+  "posted": [
+   {
+    "n": 1,
+    "key": "fees",
+    "title": "كم رسوم اتحاد الملاك؟",
+    "date": "2026-11-27",
+    "links": {
+     "x": "https://x.com/idamaapp/status/2126118118024192430",
+     "youtube": "https://youtube.com/shorts/sQLKLMTK_40",
+     "tiktok": "منشور 27 نوفمبر"
+    }
+   },
+   {
+    "n": 2,
+    "key": "land-share",
+    "title": "كيف تحسب حصة شقتك في الأرض؟",
+    "date": "2026-11-27",
+    "links": {
+     "x": "https://x.com/idamaapp/status/2126118385096249848",
+     "youtube": "https://youtube.com/shorts/YUKm9e4ET6o",
+     "tiktok": "منشور 27 نوفمبر"
+    }
+   },
+   {
+    "n": 3,
+    "key": "what-is",
+    "title": "ما هو اتحاد الملاك؟",
+    "date": "2026-11-27",
+    "links": {
+     "x": "https://x.com/idamaapp/status/2126118809488740649",
+     "youtube": "https://youtube.com/shorts/Oln-d4f8nWo",
+     "tiktok": "منشور 27 نوفمبر (قيد المراجعة)"
+    }
+   }
+  ],
+  "stray": {
+   "x_text_only": "https://x.com/idamaapp/status/2126117801853387116",
+   "why": "منشور نصي بلا فيديو خرج بالخطأ؛ حذفه ينتظر موافقة رامي"
+  }
  }
 }
